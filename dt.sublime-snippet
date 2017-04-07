@@ -1,0 +1,7 @@
+<snippet>
+	<content>&lt;div class=&quot;t&quot;&gt;&lt;topic class=&quot;1&quot;&gt;$1&lt;/topic&gt;&lt;/div&gt;</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dt</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
