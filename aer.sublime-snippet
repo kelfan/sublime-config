@@ -1,11 +1,11 @@
 <snippet>
   <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
   <content><![CDATA[
-->
+###
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>il</tabTrigger>
-  <description>-&gt;</description>
+  <tabTrigger>aer</tabTrigger>
+  <description></description>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>text.html.markdown, markup.list.unnumbered.markdown, meta.paragraph.list.markdown</scope>
+  <scope>text.html.markdown, meta.block-level.markdown</scope>
 </snippet>

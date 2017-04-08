@@ -1,0 +1,9 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content>##</content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>aee</tabTrigger>
+  <description>##</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.markdown, meta.block-level.markdown, markup.heading.markdown, markup.heading.2.markdown, entity.name.section, constant.other</scope>
+</snippet>
