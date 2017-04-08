@@ -1,5 +1,5 @@
 {
-	"scope": "text.html - source - meta.tag, punctuation.definition.tag.begin",
+	// "scope": "text.html - source - meta.tag, punctuation.definition.tag.begin",
 
 	"completions":
 	[
@@ -7,7 +7,7 @@
 		{"trigger":"aq","contents":"!"},
 		{"trigger":"aw","contents":"@"},
 		{"trigger":"ae","contents":"#"},
-		{"trigger":"ar","contents":"$"},
+		// {"trigger":"ar","contents":"\$"},
 		{"trigger":"at","contents":"%"},
 		{"trigger":"ay","contents":"^"},
 		{"trigger":"au","contents":"&"},
