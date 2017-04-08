@@ -1,10 +1,31 @@
-// {
-//    "scope": "text.html - source - meta.tag, punctuation.definition.tag.begin",
+{
+	"scope": "text.html - source - meta.tag, punctuation.definition.tag.begin",
 
-//    "completions":
-//    [
-//       { "trigger": "a", "contents": "<a href=\"$1\">$0</a>" },
-//       { "trigger": "abbr\t<abbr>", "contents": "<abbr>$0</abbr>" },
-//       { "trigger": "acronym", "contents": "<acronym>$0</acronym>" }
-//    ]
-// }
+	"completions":
+	[
+		{ "trigger": "aq", "contents": "!" },
+		{"trigger":"aq","contents":"!"},
+		{"trigger":"aw","contents":"@"},
+		{"trigger":"ae","contents":"#"},
+		{"trigger":"ar","contents":"$"},
+		{"trigger":"at","contents":"%"},
+		{"trigger":"ay","contents":"^"},
+		{"trigger":"au","contents":"&"},
+		{"trigger":"ai","contents":"*"},
+		{"trigger":"ao","contents":"("},
+		{"trigger":"ap","contents":")"},
+		{"trigger":"as","contents":"?"},
+		{"trigger":"az","contents":"~"},
+		{"trigger":"af","contents":"\""},
+		{"trigger":"ag","contents":"+"},
+		{"trigger":"ah","contents":"("},
+		{"trigger":"aj","contents":"<"},
+		{"trigger":"ak","contents":"{"},
+		{"trigger":"al","contents":">"},
+		{"trigger":"am","contents":":"},
+		{"trigger":"an","contents":"_"},
+		{"trigger":"av","contents":"|"},
+		{"trigger":"ax","contents":"*"},
+		{"trigger":"ab","contents":"&"}
+	]
+}
