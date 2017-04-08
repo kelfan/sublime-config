@@ -1,0 +1,31 @@
+{
+	"scope": "text.html - source - meta.tag, punctuation.definition.tag.begin",
+
+	"completions":
+	[
+		{ "trigger": "aq", "contents": "!" },
+		{"trigger":"aq","contents":"!"},
+		{"trigger":"aw","contents":"@"},
+		{"trigger":"ae","contents":"#"},
+		{"trigger":"ar","contents":"$"},
+		{"trigger":"at","contents":"%"},
+		{"trigger":"ay","contents":"^"},
+		{"trigger":"au","contents":"&"},
+		{"trigger":"ai","contents":"*"},
+		{"trigger":"ao","contents":"("},
+		{"trigger":"ap","contents":")"},
+		{"trigger":"as","contents":"?"},
+		{"trigger":"az","contents":"~"},
+		{"trigger":"af","contents":"\""},
+		{"trigger":"ag","contents":"+"},
+		{"trigger":"ah","contents":"("},
+		{"trigger":"aj","contents":"<"},
+		{"trigger":"ak","contents":"{"},
+		{"trigger":"al","contents":">"},
+		{"trigger":"am","contents":":"},
+		{"trigger":"an","contents":"_"},
+		{"trigger":"av","contents":"|"},
+		{"trigger":"ax","contents":"*"},
+		{"trigger":"ab","contents":"&"}
+	]
+}
