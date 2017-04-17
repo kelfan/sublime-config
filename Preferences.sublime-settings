@@ -25,9 +25,9 @@
 		"Jena",
 		"Turuk"
 	],
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Light.tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
-	"font_size": 22,
+	"font_size": 18,
 	"ignored_packages":
 	[
 		"Auto Hide Sidebar",
@@ -39,5 +39,5 @@
 	"scroll_past_end": false,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "Boxy Solarized Light.sublime-theme"
+	"theme": "Boxy Tomorrow.sublime-theme"
 }
