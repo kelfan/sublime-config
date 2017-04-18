@@ -9,5 +9,5 @@
   <tabTrigger>php</tabTrigger>
   <description>&lt;?php</description>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>text.html.markdown, meta.block-level.markdown, markup.raw.block.markdown</scope>
+  <!-- <scope>text.html.markdown, meta.block-level.markdown, markup.raw.block.markdown</scope> -->
 </snippet>

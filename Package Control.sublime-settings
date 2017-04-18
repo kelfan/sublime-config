@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AppendComma",
 		"ARFF Syntax Highlighting",
 		"Auto Hide Sidebar",
 		"Boxy Theme",
@@ -28,6 +29,7 @@
 		"Package Control",
 		"php-snippets",
 		"Python 3",
+		"SFTP",
 		"SideBarEnhancements",
 		"SnippetMaker",
 		"SortBy",
